@@ -1,6 +1,6 @@
 # harsh_tomar_cse_b_weatherapp
 It is our Mini Project 
-WEATHWR APP 
+WEATHER APP 
 Team members are following :
 Kunal Garg  2401010258
 Priyansh Rao  2401010194
